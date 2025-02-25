@@ -26,7 +26,8 @@ This iteration contains 2 primary deviations:
 ---
 ### Base Layer ###
 
-![Base Layer](https://github.com/user-attachments/assets/a5a9e0a1-128d-4d02-9b38-605ff6f1ba23)
+![Base Layer](https://github.com/user-attachments/assets/0a8d93f4-f16d-4656-870d-b67cee330398)
+
 
 Base Layer is identical to default QWERTY layout in miryoku, except layer control positions are modified
 
@@ -34,49 +35,56 @@ Base Layer is identical to default QWERTY layout in miryoku, except layer contro
 
 ### Number/Symbol Layer ###
 
-![Num Layer](https://github.com/user-attachments/assets/bb1feba2-e40f-4399-9028-bfd6b46d2028)
+![Num Layer](https://github.com/user-attachments/assets/8ec74d6d-3312-416d-a804-d05c569cc8cd)
+
 
 Num Layer is flipped to more closely match 108 key numpad. holding Num2 accesses duplicate key, but numbers are Numpad keypresses rather than Num/Sym combo keys
 
 ---
 ### Function Layer ###
 
-![Fun Layer](https://github.com/user-attachments/assets/a74e2298-7be1-43d4-a307-6231b88dd30f)
+![Fun Layer](https://github.com/user-attachments/assets/78815682-bc97-4dfd-a446-e198870164a1)
+
 
 Function Layer mirrors Num layer with F keys when possible to avoid dissonance, adding additional control keys
 
 ---
 ### Mouse Emulation Layer ###
 
-![Mouse Layer](https://github.com/user-attachments/assets/8647d8e4-de73-4ec2-a41c-1961ee8358ff)
+![komonomouselayer](https://github.com/user-attachments/assets/148d3cb5-bd16-440c-a5b1-3727562ed07f)
+
 
 Mouse layer provides mouse movement on home row, with matching scroll wheel movement under. simple macros on top row, with clicks on thumb
 
 ---
 ### Navigation Layer ###
 
-![Nav Layer](https://github.com/user-attachments/assets/72a53c6f-086f-4228-ba10-9b042c07568b)
+![komononavlayer](https://github.com/user-attachments/assets/743aef5f-9034-4f95-bf52-220e7d61aab9)
+
 
 Nav layer contains arrow keys and navigation cluster controls, with common macros above
 
 ---
 ### Media/Extras Layer ###
 
-![Media Layer](https://github.com/user-attachments/assets/d5fc23be-5934-4fbd-ab56-19575341f543)
+![komonomedialayer](https://github.com/user-attachments/assets/0ac73c90-6240-4635-8c39-fcd605d24a12)
+
 
 Media layer contains media controls, as well as firmware controlled keyboard controls
 
 ---
 ### Base 2 Layer ###
 
-![Base 2 Layer](https://github.com/user-attachments/assets/aad27530-5969-4828-851e-32064b58b5de)
+![komonobase2layer](https://github.com/user-attachments/assets/8427616a-26b5-46a3-bedd-d08d970a5b4e)
+
 
 Base 2 is designated default layer by double tap of Base 2 key in secondary menus. Intended as a gaming layer to minimize in game keybind alteration, with mouse emulation on right hand, including 3 additional mouse buttons
 
 ---
 ### Base 2x Layer ###
 
-![Base 2x Layer](https://github.com/user-attachments/assets/31f13cb0-4dc0-42bb-9821-bfabcdcaf20f)
+![komonobase2xlayer](https://github.com/user-attachments/assets/fd2e8da7-87ed-4b50-b9f3-9f1b2530e947)
+
 
 Base 2x Layer replaces alpha kepresses from Base 2 with alternates while maintaining mouse emulation and standard hold keys
 
