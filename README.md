@@ -1,7 +1,7 @@
 # Komono # 
 ![download (2)](https://github.com/user-attachments/assets/0842ac00-89e8-45e2-952d-11a6df238ef3)
 ---
-Komono is intended as a universal, orthoganal, and ergonomic layout designed for 36 keys. 
+Komono is intended as a universal, orthogonal, and ergonomic layout designed for 36 keys. 
 Designed to function the same on any ortholinear or egonomic keyboard of 36 or more keys, with any additional keys available free for additional function.
 
 ---
